@@ -1,0 +1,35 @@
+
+
+.Box{
+        width: 100px;
+        height: 100px;     
+}
+.Top{
+        background-color: red;
+        position: relative;
+        top: 100px;
+        left: 300px;
+}
+.Left{
+        background-color: green;
+        position: relative;
+        top: 100px;
+        left: 200px;
+}
+.Middle{
+        background-color: black;
+        position: relative;
+        left: 300px;
+}
+.Right{
+        background-color: blue;
+        position: relative;
+        bottom:100px;
+        left: 400px;
+}
+.Bottom{
+        background-color: yellow;
+        position: relative;
+        bottom:100px;
+        left: 300px;
+}
